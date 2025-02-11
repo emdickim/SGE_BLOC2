@@ -7,3 +7,6 @@ SEMANA 2! 4 - 2 - 2025
 
 ![image](https://github.com/user-attachments/assets/f1be1e4f-07a4-4b41-99ac-ff31034ab84d)
 perfi he pogut fer que aixo funcioni
+
+![image](https://github.com/user-attachments/assets/c2ee9d48-e61f-4a2b-9b48-ea220a5123f3)
+Aqui cambio el contigut de la base de dades
