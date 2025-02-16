@@ -24,6 +24,10 @@ La primera captua posa que s'ha creat corectament i que sa tancat la conexio, i 
 ![image](https://github.com/user-attachments/assets/55de656c-66f5-410e-9447-ec0e96805530) 
 Aqui el exercici de listes que demana
 
+![image](https://github.com/user-attachments/assets/c36f7afb-ab65-464e-b34c-66c2e3ea7590) 
+aqui es fa un bucle amd els results i es mostra la informacio en un string a cada valor de la I
+
+
 
 
 
