@@ -26,6 +26,15 @@ Aqui el exercici de listes que demana
 
 ![image](https://github.com/user-attachments/assets/c36f7afb-ab65-464e-b34c-66c2e3ea7590) 
 aqui es fa un bucle amd els results i es mostra la informacio en un string a cada valor de la I
+![image](https://github.com/user-attachments/assets/514d0484-ddea-453b-ac3a-f072b7c1e91f)
+aqui li he camabiat el telefon al albert al numero 931111111
+![image](https://github.com/user-attachments/assets/859481e7-6821-45aa-bd20-ec26c2481f40)
+
+Aqui he borrat el nom del client Albert turcant-ho desde el main
+
+
+
+//perdo si no esta molt bent fet, pero mha costat moltissim i he tardat moltissimes hores perque em donaba molts errors
 
 
 
